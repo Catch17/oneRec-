@@ -1,5 +1,5 @@
 """
-oneRec - Phase 3: SASRec 简化版模型 (v3 彻底修复版)
+oneRec - Phase 3: SASRec 简化版模型 
 基于 Self-Attention 的序列推荐模型
 """
 
